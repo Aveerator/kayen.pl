@@ -15,7 +15,7 @@
 		<Typewriter delay={3000}>Nazywanie mnie którymkolwiek z tych tytułów byłoby overkillem :v</Typewriter>
 	</div>
 	<div class="footer">
-		Made with svelte &lt;3 Adam\\Kayen//Aviee © 2022
+		Made with svelte &lt;3 Adam / Kayen / Aviee © 2022
 	</div>
 </body>
 
