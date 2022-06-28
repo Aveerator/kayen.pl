@@ -7,7 +7,7 @@
 		<Typewriter loop cursor={false} interval={200}>
 			<p class="text-center">Kayen</p>
 			<p class="text-center">Aviee</p>
-			<p class="text-center">Adam </p>
+			<p class="text-center">Adam</p>
 		</Typewriter>
 	</div>
 	<div class="paragraph">
